@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "Risqi",
+      "judulbuku": "One Punch Man",
+      "tanggalpinjam": "21-9-2021",
+      "tanggalpengembalian": "21-9-2022",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "dio",
+      "judulbuku": "naruto",
+      "tanggalpinjam": "21-9-2021",
+      "tanggalpengembalian": "03-2-2022"
+    }
+  ]
+}
